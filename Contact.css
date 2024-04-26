@@ -1,0 +1,203 @@
+.conteiner{
+	width: 1170px;
+	margin: 0 auto;
+}
+header{
+	background-image: url("img/Rectangle 2.png");
+	padding-top: 13px;
+	padding-bottom: 12px;
+	background-attachment: fixed;
+
+	 }
+ header a{
+ 	color: #fff;
+ }
+ ul, li{
+ 	display: block;
+ 	padding: 0;
+ 	margin: 0;
+ }
+ .menu , .seti{
+ 	display: flex;
+ }
+ .menu li a {
+ 	font-size: 24px;
+ 	font-family: Old Standard TT;
+ 	text-decoration: none;
+ }
+ .menu li{
+ 	margin-right: 130px;
+ }
+ .nav{
+ 	display: flex;
+ 	align-items: center;
+ }
+ .logo{
+ 	margin-left: -52px;
+ 	margin-right: 170px;
+ 	height: 52px;
+ 	width: 50px;
+ }
+ .seti li{
+ 	margin-right: 25px;
+ }
+ body{
+	width: 100%;
+ 	background-image: url("img/slide2.jpg");
+ 	background-repeat: no-repeat;
+ 	margin: 0;
+ 	position: relative;
+ 	background-size: cover;
+ }
+ .col{
+ 	color:#524949;
+ 	text-decoration: underline white;
+
+ }
+.zag{
+	font-size: 96px;
+	font-family: Old Standard TT;
+	letter-spacing: 0.05em;
+	color: #fff;
+	margin-left: 526px;
+	margin-top: 24px;
+
+}
+
+.acc{
+ 	border:none;
+ }
+ 
+.vid{
+	text-align: center;
+}
+input{
+	border-radius: 0px;
+	height: 39px;
+	width: 377px;
+	font-family: Old Standard TT;
+	font-size: 24px;
+	padding-left: 20px;
+	background-color: rgba(255, 255, 255, 0.55);
+	border:none;
+	margin-top: 20px;
+	letter-spacing: 0.15em;
+}
+::placeholder { 
+    color: black;
+    opacity: 1; /
+}
+
+.zapis{
+	margin-top: 50px;
+	margin-left: 0;
+	width: 443px;
+	height: 305px;
+	color: #000;
+	text-align: center;
+	font-family: Old Standard TT;
+
+}
+.ozap{
+	background-color: rgba(255, 255, 255, 0.55);
+	width: 443px;
+	font-size: 36px;
+	letter-spacing: 0.15em;
+	padding-top: 22px;
+	padding-bottom: 22px;
+
+}
+section .conteiner{
+	display:flex;
+}
+.ggg{
+	color: #fff;
+	font-family: Old Standard TT;
+	font-size: 36px;
+	margin-left: 131px;
+	width: 432px;
+}
+
+.obsh{
+	width: 738px;
+	height: 384px;
+	margin-top: 40px;
+	margin-left: 56px;
+	color: #fff;
+
+}
+
+.work{
+	color: white;
+	font-family:Roboto;
+	font-size:30px;
+	margin-top: 57px;
+	display: block;
+	width: 279px;
+	height: 156px;
+
+}
+
+.graf{
+	font-size:18px;
+	line-height: 20px;
+	margin-top: 20px;
+}
+
+.graf li{
+	margin-top: 20px;
+}
+ .email{
+	width: 30px;
+	height: 30px;
+	margin-right: 6px;
+}
+
+.mail{
+	font-size: 13px;
+	font-family: Roboto;
+	margin-top: 16px;
+	display: flex;
+	align-items: center;
+
+}
+
+.seti_1{
+	display: flex;
+	margin-top: 61px;
+}
+.seti_1 li{
+ 	margin-right: 25px;
+ }
+.qqq{
+	display: flex;
+}
+.adress{
+	margin-top: 61px;
+	margin-left: 130px;
+	margin-right: 3px;
+	color: #fff;
+	font-family: Roboto;
+	font-size: 30px;
+}
+.adr{
+	width: 266px;
+	height: 97px;
+	margin-top: 6px;
+	margin-left: 36px;
+	color: #fff;
+	font-size: 18px;
+	font-family: Roboto;
+}
+.number{
+	margin-top: 46px;
+}
+.number a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+}
+
+.number img{
+	margin-right: 6px;
+}

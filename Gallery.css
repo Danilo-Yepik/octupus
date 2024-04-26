@@ -1,0 +1,251 @@
+.conteiner{
+	width: 1170px;
+	margin: 0 auto ;
+}
+header{
+	background-image: url("img/Rectangle 2.png");
+	padding-top: 13px;
+	padding-bottom: 12px;
+	background-attachment: fixed;
+
+	 }
+ header a{
+ 	color: #fff;
+ }
+ ul, li{
+ 	display: block;
+ 	padding: 0;
+ 	margin: 0;
+ }
+ .menu , .seti{
+ 	display: flex;
+ }
+ .menu li a {
+ 	font-size: 24px;
+ 	font-family: Old Standard TT;
+ 	text-decoration: none;
+ }
+ .menu li{
+ 	margin-right: 130px;
+ }
+ .nav{
+ 	display: flex;
+ 	align-items: center;
+ }
+ .logo{
+ 	margin-left: -52px;
+ 	margin-right: 170px;
+ 	height: 52px;
+ 	width: 50px;
+ }
+ .seti li{
+ 	margin-right: 25px;
+ }
+ body{
+ 	margin: 0;
+ }
+ .col{
+ 	color:#524949;
+ 	text-decoration: underline white;
+
+ }
+
+ .nazva{
+ 	display: flex;
+ 	
+ }
+ .mach1{
+ 	width: 100px;
+ 	height: 125px;
+ 	margin-left: -125px;
+ 	margin-right: 50px;
+ 	margin-top: 9px;
+ 	position: absolute;
+
+ }
+
+ .gal{
+ 	font-family:Old Standard TT;
+ 	font-size: 96px;
+ 	letter-spacing: 1.025em;
+ 	text-align: center;
+ 	margin-left: 50px;
+ 	width: 1070px;
+ 	margin-top: 44px;
+ }
+ .mach2{
+ 	transform: scale(-1, 1) ;
+ 	width: 100px;
+ 	height: 125px;
+ 	margin-left: 1170px;
+ 	margin-top: 9px;
+ 	position: absolute;
+ }
+
+ .chb{
+ 	background-image: url("img/Rectangle 8.png");
+ 	margin-left: 70px;
+ 	width: 1030px;
+ 	height: 32px;
+ 	text-align: center;
+ 	padding-top: 29px;
+ 	padding-bottom: 29px;
+ 	margin-top: 24px;
+
+
+ }
+ .chbtext{
+ 	color: #fff;
+ 	font-family: Old Standard TT;
+	font-size: 36px;
+	line-height: 44px;
+	letter-spacing: 0.61em;
+ }
+
+ .photo1{
+ 	margin-top: 24px;
+ 	margin-left: 100px;
+ 	letter-spacing: 35px;
+ 	
+
+
+ }
+ .photo1 img{
+ 	width: 300px;
+ 	height: 400px;
+ }
+
+.photo1_1{
+	margin-top: 24px;
+	margin-left: 200px;
+	letter-spacing: 70px;
+	
+
+}
+.photo1_1 img{
+ 	width: 350px;
+ 	height: 400px;
+ }
+
+.colortatoo{
+ 	background-image: url("img/Rectangle 8.png");
+ 	margin-left: 70px;
+ 	width: 1030px;
+ 	height: 32px;
+ 	text-align: center;
+ 	padding-top: 29px;
+ 	padding-bottom: 29px;
+ 	margin-top: 24px;
+ }
+
+ .dot{
+ 	background-image: url("img/Rectangle 8.png");
+ 	margin-left: 70px;
+ 	width: 1030px;
+ 	height: 32px;
+ 	text-align: center;
+ 	padding-top: 29px;
+ 	padding-bottom: 29px;
+ 	margin-top: 24px;
+ }
+
+
+footer{
+	background-image: url("img/Rectangle 4.png");
+	left: 0;
+	bottom: 0;
+	background-attachment: fixed;
+	width: 100%;
+	height: 342px;
+	margin-top: 108px;
+	display: flex;
+	
+ }
+ footer .pochta{
+ 	padding-top: 92px;
+ 	width: 267px;
+ 	height: 189px;
+ 	text-align: center;
+ 	margin-left: 44px;
+ 	color: white;
+ 	font-size: 18px;
+ 	font-family: Roboto;
+ }
+.acc{
+ 	border:none;
+ }
+input{
+	border-radius: 10px;
+	height: 33px;
+	width: 206px;
+	font-family: Roboto;
+	font-size: 18px;
+	padding-left: 20px;
+	background-color: rgba(235, 230, 230, 0.4);
+	color: black;
+	border:none;
+	margin-top: 20px;
+}
+::placeholder { 
+    color: black;
+    opacity: 1; /
+}
+.vid{
+	padding: 0;
+}
+footer .conteiner{
+	display: flex;
+}
+.octupus{
+	margin-left: 126px;
+}
+footer .octupus{
+	padding-top: 55px;
+}
+.noc{
+	font-size: 36px;
+	font-family: Old Standard TT;
+	
+	color: white;
+	margin-left: -22px;
+}
+footer .noc{
+	margin-top: 221px;
+}
+.group{
+	margin-left: 44px;
+	margin-top: 25px;
+}
+.work{
+	color: white;
+	font-family:Roboto;
+	font-size:24px; 
+	margin-left: 69px;
+}
+.graf{
+	font-size:18px;
+	line-height: 20px;
+	margin-top: 20px;
+}
+footer .work{
+	margin-top: 121px;
+}
+.graf li{
+	padding-bottom: 20px;
+}
+.number a {
+	color: white;
+	text-decoration: none;
+}
+
+.number{
+	margin-left: 21px;
+	font-size: 18px;
+	font-family: Roboto;
+}
+footer .number{
+	margin-top: 121px;
+}
+.number li{
+	padding-bottom: 20px;
+}
